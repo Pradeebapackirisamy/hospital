@@ -1,1 +1,5 @@
 # hospital
+
+salary of doctor A: 50000
+SALARY OF DOCTOR B:60000
+SALARY OF DOCTOR C:56000
